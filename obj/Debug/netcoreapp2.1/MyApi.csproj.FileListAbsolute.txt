@@ -1,0 +1,14 @@
+D:\YAZILIM YOLU\Api\MyApi\bin\Debug\netcoreapp2.1\MyApi.deps.json
+D:\YAZILIM YOLU\Api\MyApi\bin\Debug\netcoreapp2.1\MyApi.runtimeconfig.json
+D:\YAZILIM YOLU\Api\MyApi\bin\Debug\netcoreapp2.1\MyApi.runtimeconfig.dev.json
+D:\YAZILIM YOLU\Api\MyApi\bin\Debug\netcoreapp2.1\MyApi.dll
+D:\YAZILIM YOLU\Api\MyApi\bin\Debug\netcoreapp2.1\MyApi.pdb
+D:\YAZILIM YOLU\Api\MyApi\obj\Debug\netcoreapp2.1\MyApi.csprojAssemblyReference.cache
+D:\YAZILIM YOLU\Api\MyApi\obj\Debug\netcoreapp2.1\MyApi.csproj.CoreCompileInputs.cache
+D:\YAZILIM YOLU\Api\MyApi\obj\Debug\netcoreapp2.1\MyApi.RazorAssemblyInfo.cache
+D:\YAZILIM YOLU\Api\MyApi\obj\Debug\netcoreapp2.1\MyApi.RazorAssemblyInfo.cs
+D:\YAZILIM YOLU\Api\MyApi\obj\Debug\netcoreapp2.1\MyApi.AssemblyInfoInputs.cache
+D:\YAZILIM YOLU\Api\MyApi\obj\Debug\netcoreapp2.1\MyApi.AssemblyInfo.cs
+D:\YAZILIM YOLU\Api\MyApi\obj\Debug\netcoreapp2.1\MyApi.RazorTargetAssemblyInfo.cache
+D:\YAZILIM YOLU\Api\MyApi\obj\Debug\netcoreapp2.1\MyApi.dll
+D:\YAZILIM YOLU\Api\MyApi\obj\Debug\netcoreapp2.1\MyApi.pdb
